@@ -3,8 +3,6 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F787AF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luiz+Fell%C3%ADipe.;Tenho+20+anos.)](https://git.io/typing-svg)
-
 ──────────── / ──────────────── / ──────────────── / ──────────────── / ────────────────
 <br>
 
