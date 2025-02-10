@@ -26,7 +26,7 @@
 ### Frameworks
 <br>
 
-![React](https://shields.io/badge/react-0D1117logo=react&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![JNode.js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
