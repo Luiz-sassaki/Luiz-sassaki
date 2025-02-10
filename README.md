@@ -23,20 +23,7 @@
 ──────────── / ──────────────── / ──────────────── / ────────────────  
 <br>
 
-### Social
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117
-)](https://www.instagram.com/sassakilz/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=White
-)](https://www.linkedin.com/in/luiz-sassaki/)
-
-
-<br>
-
-<br>
-
 ### Frameworks
-<br>
-
 ![HTML]
 ![CSS]
 ![Python]
@@ -44,6 +31,19 @@
 ![Java]
 ![MySQL]
 ![PHP]
+
+
+<br>
+
+<br>
+
+### Social
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117
+)](https://www.instagram.com/sassakilz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=White
+)](https://www.linkedin.com/in/luiz-sassaki/)
 
 <br>
 
