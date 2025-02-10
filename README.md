@@ -13,8 +13,10 @@
 </div>
 
 <br><li><b><font size="45">Social Midia:</font></b></li>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luiz-sassaki?tab=repositories)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sassaki/))
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Luiz-sassaki?tab=repositories)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117)](https://www.instagram.com/sassakilz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/luiz-sassaki/)
+
 
 <br><li><b><font size="45">Skills:</font></b></li>
 
