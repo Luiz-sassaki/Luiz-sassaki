@@ -32,7 +32,7 @@
 ![JNode.js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 ![JFirebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&log=JSON%20web%20tokens)&nbsp;
+![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-0D1117?style=for-the-plastice&log=JSON%20web%20tokens)&nbsp;
 
 
 <br>
