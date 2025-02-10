@@ -26,7 +26,7 @@
 ### Social
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117
 )](https://www.instagram.com/sassakilz/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%0D1117?style=for-the-badge&logo=linkedin&logoColor=0D1117
 )](https://www.linkedin.com/in/luiz-sassaki/)
 
 
