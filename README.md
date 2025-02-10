@@ -26,13 +26,13 @@
 ### Frameworks
 <br>
 
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![JNode.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
-![JFirebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
-![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)&nbsp;
+![React](https://shields.io/badge/react-0D1117logo=react&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![JNode.js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![JFirebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-0D1117?style=plastic&logo=JSON%20web%20tokens)&nbsp;
 
 
 <br>
