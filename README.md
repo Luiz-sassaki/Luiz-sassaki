@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15A412&size=30&center=true&vCenter=true&width=1000&lines=Developer+and+Cybersecurity;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=30&center=true&vCenter=true&width=1000&lines=Developer+and+Cybersecurity;)](https://git.io/typing-svg)
 
 
 <br><li><b><font size="45">My Status:</font></b></li>
