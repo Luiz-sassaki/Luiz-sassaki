@@ -26,13 +26,13 @@
 ### Frameworks
 <br>
 
-![React](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=0D1117&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![JNode.js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 ![JFirebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-0D1117?style=plastic&logo=JSON%20web%20tokens)&nbsp;
+![JWT (JSON Web Token)](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&log=JSON%20web%20tokens)&nbsp;
 
 
 <br>
