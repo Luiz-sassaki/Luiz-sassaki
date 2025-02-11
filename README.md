@@ -7,7 +7,7 @@
 
 <br><li><b><font size="45">My Status:</font></b></li>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-sassaki&show_icons=true&count_private=true&hide_border=true&title_color=FF3232&icon_color=63b5f8&text_color=FFFFFF&bg_color=000000" alt="Luiz Sassaki Brasileiro Sales github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-sassaki&show_icons=true&count_private=true&hide_border=true&title_color=63b5f&icon_color=63b5f8&text_color=FFFFFF&bg_color=000000" alt="Luiz Sassaki Brasileiro Sales github stats" /> 
   
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-sassaki&layout=compact&hide_border=true&title_color=63b5f8&text_color=FFFFFF&bg_color=000000" />
 </div>
